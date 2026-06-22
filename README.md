@@ -2,6 +2,8 @@
 
 Evaluacion 03 - Arquitectura de Microservicios con Spring Boot, Eureka Server, API Gateway y YAML.
 
+# ALUMNO: Bellido Rony
+
 ## Estructura
 
 - `eureka-server`: registro y descubrimiento de servicios.
@@ -124,6 +126,3 @@ Respuesta esperada:
 }
 ```
 
-## Nota de ejecucion
-
-Este proyecto usa Maven. Si el equipo no tiene `mvn` instalado, abrir la carpeta en IntelliJ IDEA, Eclipse STS o VS Code con extension Java/Maven permitirá importar los `pom.xml` y descargar dependencias.
